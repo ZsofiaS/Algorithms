@@ -17,3 +17,5 @@ The time complexity is O(nlogn) in average case, and O(n2) in worst case scenari
 [Here](https://github.com/ZsofiaS/Quicksort.git) is the Javascript code for a quicksort, TDD-d with Jasmine.
 
 ### Breadth-first search
+
+[Here](https://github.com/ZsofiaS/Algorithms.git/breadthFirstSearch) is the Javascript code for a breadth-first search, TDD-d with Jasmine.
