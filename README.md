@@ -18,4 +18,4 @@ The time complexity is O(nlogn) in average case, and O(n2) in worst case scenari
 
 ### Breadth-first search
 
-[Here](https://github.com/ZsofiaS/Algorithms.git/breadthFirstSearch) is the Javascript code for a breadth-first search, TDD-d with Jasmine.
+[Here](https://github.com/ZsofiaS/Algorithms/tree/master/breadthFirstSearch) is the Javascript code for a breadth-first search, TDD-d with Jasmine.
