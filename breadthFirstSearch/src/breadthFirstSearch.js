@@ -8,7 +8,7 @@ class Search {
     while (queue.length > 0) {
       let person = queue[0];
       if (!searched.includes(person)) {
-        if (person.includes('cat')) {
+        if (this.personIsCat(person)) {
           queue.shift();
           return person;
         } else {
@@ -19,5 +19,9 @@ class Search {
       }
     }
     return false;
+  }
+
+  personIsCat(person) {
+    return person.includes('cat');
   }
 }
